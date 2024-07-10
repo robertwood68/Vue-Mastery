@@ -32,6 +32,138 @@
         "time": "12:00",
         "petsAllowed": true,
         "organizer": "Phil Swift"
+    },
+    {
+      "id": 1010,
+      "category": "sports",
+      "title": "Marathon",
+      "description": "Run for charity",
+      "location": "Central Park",
+      "date": "March 15, 2024",
+      "time": "08:00",
+      "petsAllowed": false,
+      "organizer": "John Doe"
+    },
+    {
+      "id": 1111,
+      "category": "education",
+      "title": "Science Fair",
+      "description": "Showcase of student projects",
+      "location": "High School Gym",
+      "date": "April 22, 2024",
+      "time": "10:00",
+      "petsAllowed": false,
+      "organizer": "Jane Smith"
+    },
+    {
+      "id": 1212,
+      "category": "health",
+      "title": "Yoga Class",
+      "description": "Free yoga session in the park",
+      "location": "City Park",
+      "date": "May 10, 2024",
+      "time": "07:00",
+      "petsAllowed": true,
+      "organizer": "Emily Brown"
+    },
+    {
+      "id": 1313,
+      "category": "technology",
+      "title": "Tech Conference",
+      "description": "Discussing the latest in tech",
+      "location": "Convention Center",
+      "date": "June 5, 2024",
+      "time": "09:00",
+      "petsAllowed": false,
+      "organizer": "Tech Innovators"
+    },
+    {
+      "id": 1414,
+      "category": "art",
+      "title": "Art Exhibit",
+      "description": "Local artists showcase",
+      "location": "Art Gallery",
+      "date": "July 20, 2024",
+      "time": "17:00",
+      "petsAllowed": false,
+      "organizer": "Gallery Owners"
+    },
+    {
+      "id": 1515,
+      "category": "music",
+      "title": "Rock Concert",
+      "description": "Live performance by rock bands",
+      "location": "Stadium",
+      "date": "August 15, 2024",
+      "time": "19:00",
+      "petsAllowed": false,
+      "organizer": "Music Fest"
+    },
+    {
+      "id": 1616,
+      "category": "charity",
+      "title": "Charity Auction",
+      "description": "Auctioning items for charity",
+      "location": "Community Hall",
+      "date": "September 10, 2024",
+      "time": "18:00",
+      "petsAllowed": false,
+      "organizer": "Charity Org"
+    },
+    {
+      "id": 1717,
+      "category": "literature",
+      "title": "Book Fair",
+      "description": "New and used books for sale",
+      "location": "Library",
+      "date": "October 25, 2024",
+      "time": "11:00",
+      "petsAllowed": false,
+      "organizer": "Book Lovers"
+    },
+    {
+      "id": 1818,
+      "category": "theater",
+      "title": "Play Performance",
+      "description": "Local theater group performs",
+      "location": "Theater",
+      "date": "November 12, 2024",
+      "time": "20:00",
+      "petsAllowed": false,
+      "organizer": "Drama Club"
+    },
+    {
+      "id": 1919,
+      "category": "community",
+      "title": "Neighborhood Picnic",
+      "description": "Community gathering with food",
+      "location": "Local Park",
+      "date": "December 5, 2024",
+      "time": "13:00",
+      "petsAllowed": true,
+      "organizer": "Local Residents"
+    },
+    {
+      "id": 2020,
+      "category": "environment",
+      "title": "Beach Cleanup",
+      "description": "Volunteers needed to clean the beach",
+      "location": "Seaside Beach",
+      "date": "January 10, 2025",
+      "time": "09:00",
+      "petsAllowed": true,
+      "organizer": "Eco Warriors"
+    },
+    {
+      "id": 2121,
+      "category": "food",
+      "title": "Food Festival",
+      "description": "Taste dishes from around the world",
+      "location": "Town Square",
+      "date": "February 14, 2025",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Foodies United"
     }
   ]
 }
