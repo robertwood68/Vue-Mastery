@@ -1,10 +1,22 @@
 <script setup>
 import { useRouter } from 'vue-router'
-const props = defineProps(["event"])
+import { inject } from 'vue'
+
+
+const { event } = defineProps(["event"])
 const router = useRouter()
+const GStore = inject('GStore')
+
 const register = () => {
-  // if registration api call succeeds, push back to event details
-  router.push({ name: 'EventDetails' })
+  // Call API
+  // if registered then redirect to details
+  GStore.flashMessage = `You are successfully registered for ${event.title}`
+  setTimeout(() => {
+    GStore.flashMessage = ''
+  }, 3000)
+  router.push({
+    name: 'EventDetails'
+  })
 }
 </script>
 
