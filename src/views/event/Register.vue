@@ -2,7 +2,6 @@
 import { useRouter } from 'vue-router'
 import { inject } from 'vue'
 
-
 const { event } = defineProps(["event"])
 const router = useRouter()
 const GStore = inject('GStore')
